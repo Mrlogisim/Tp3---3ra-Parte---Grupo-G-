@@ -1,0 +1,12 @@
+[2024-11-28T17:22:34.843488200] INFORMACION: Hilo 1 inició el proceso.
+[2024-11-28T17:22:34.843488200] INFORMACION: Hilo 2 inició el proceso.
+[2024-11-28T17:22:34.849757900] ADVERTENCIA: Hilo 1 encontró una advertencia.
+[2024-11-28T17:22:34.849757900] ADVERTENCIA: Hilo 2 encontró una advertencia.
+[2024-11-28T17:22:34.849757900] ERROR: Hilo 1 encontró un error.
+[2024-11-28T17:22:34.849757900] ERROR: Hilo 2 encontró un error.
+[2024-11-28T17:56:25.187403900] INFO: Hilo 1 inició el proceso.
+[2024-11-28T17:56:25.186454200] INFO: Hilo 2 inició el proceso.
+[2024-11-28T17:56:25.193152900] WARN: Hilo 1 encontró una advertencia.
+[2024-11-28T17:56:25.193152900] WARN: Hilo 2 encontró una advertencia.
+[2024-11-28T17:56:25.198000900] ERROR: Hilo 1 encontró un error.
+[2024-11-28T17:56:25.198000900] ERROR: Hilo 2 encontró un error.
