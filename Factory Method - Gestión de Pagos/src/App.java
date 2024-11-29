@@ -1,4 +1,9 @@
-import Modelo.*;
+import Modelo.BankTransferPaymentFactory;
+import Modelo.CreditCardPaymentFactory;
+import Modelo.Payment;
+import Modelo.PayPalPaymentFactory;
+import Modelo.PaymentFactory;
+
 
 public class App {
     public static void main(String[] args) {
